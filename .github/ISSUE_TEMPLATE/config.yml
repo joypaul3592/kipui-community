@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💬 Ask a Question
+    url: https://github.com/joypaul3592/kipui-community/discussions
+    about: Ask questions and get help from the KipUI community.
+
+  - name: 💡 General Discussion
+    url: https://github.com/joypaul3592/kipui-community/discussions
+    about: Share ideas, feedback, and general thoughts about KipUI.  
